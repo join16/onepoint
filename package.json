@@ -1,0 +1,20 @@
+{
+  "name": "onepoint",
+  "version": "0.0.0",
+  "description": "(WIP) One Point Express Router. Organize your Express App with Onepoint Router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "onepoint",
+    "router",
+    "route",
+    "express-router",
+    "api",
+    "rest"
+  ],
+  "author": "Join",
+  "license": "MIT"
+}
